@@ -7,7 +7,7 @@
 
 	<groupId>net.alepuzio</groupId>
 	<artifactId>my-neo4j-kata</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version><!-- semantic version -->
 
 	<name>my-neo4j-kata</name>
 	<description>my-neo4j-kata</description>
