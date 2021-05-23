@@ -12,4 +12,6 @@ This branch is about
 
 the remote has to exist before
 
-if I commit and undo, I will have the readme in modified status
+if I commit and undo, I will have the readme in modified status.
+
+It need a soft reset from the remote branch
