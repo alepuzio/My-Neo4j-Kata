@@ -11,3 +11,5 @@ This branch is about
 * to undo the local commit with the remote 
 
 the remote has to exist before
+
+if I commit and undo, I will have the readme in modified status
